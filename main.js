@@ -1,1 +1,1 @@
-console.log("Namaste Duniya")
+const pair = "extraordinaire";

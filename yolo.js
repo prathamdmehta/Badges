@@ -1,1 +1,1 @@
-console.log("This is a Yolo Badge")
+console.log("This is Yolo Badge")
